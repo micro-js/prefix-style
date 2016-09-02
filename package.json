@@ -2,7 +2,7 @@
   "name": "@f/prefix-style",
   "description": "Prefix style objects based on browser version",
   "repository": "git://github.com/micro-js/prefix-style.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
