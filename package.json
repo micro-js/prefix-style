@@ -1,0 +1,17 @@
+{
+  "name": "@f/prefix-style",
+  "description": "Prefix style objects based on browser version",
+  "repository": "git://github.com/micro-js/prefix-style.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {
+    "@f/css-vendor-prefixes": "^1.0.2"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
